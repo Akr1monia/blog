@@ -33,7 +33,7 @@ Sul disservizio di lunedì pomeriggio è ancora presto per trarre conclusioni, c
 
 La polizia finlandese, al momento, non ha aperto indagini penali e sta accertando i fatti in collaborazione con gli enti di riferimento.
 
-{{< figure src="blog/posts/mappa_incidenti.png"  width="auto" >}}
+{{< figure src="/blog/posts/mappa_incidenti.png"  width="auto" >}}
 
 ### La spina dorsale del mondo
 Sono le fibre ottiche, sottili capelli di vetro, a connettere in maniera capillare tutte le moderne infrastrutture assicurando continuità di servizio, comunicazione e soprattutto informazione.
