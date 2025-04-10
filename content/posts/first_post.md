@@ -22,7 +22,7 @@ L’evento segue di poche **settimane l’incidente del 17-18 novembre** in cui 
 
 Questi collegavano rispettivamente Lituania e Svezia (17 novembre, cavo BCS East-West Interlink) e Finlandia e Germania (18 novembre, cavo C-Lion 1). Sospettata numero uno di quello che **il ministro della difesa tedesco Boris Pistorius** ha definito _“un’azione ibrida“_ è la nave mercantile cinese Yi Peng 3 la quale pare abbia danneggiato i cavi colpendoli con l’ancora, accidentalmente o meno.
 
-{{< figure src="/img/yipeng3.png"  width="auto" >}}
+{{< figure src="img/yipeng3.png"  width="auto" >}}
 
 ### Attacco russo?
 La Svezia ha formalmente richiesto che l'imbarcazione ritorni nelle acque territoriali per poter proseguire le indagini. Ovviamente non mancano insinuazioni di un **atto bellico** **russo**.
@@ -33,7 +33,7 @@ Sul disservizio di lunedì pomeriggio è ancora presto per trarre conclusioni, c
 
 La polizia finlandese, al momento, non ha aperto indagini penali e sta accertando i fatti in collaborazione con gli enti di riferimento.
 
-{{< figure src="/img/mappa_incidenti.png"  width="auto" >}}
+{{< figure src="img/mappa_incidenti.png"  width="auto" >}}
 
 ### La spina dorsale del mondo
 Sono le fibre ottiche, sottili capelli di vetro, a connettere in maniera capillare tutte le moderne infrastrutture assicurando continuità di servizio, comunicazione e soprattutto informazione.
