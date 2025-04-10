@@ -100,7 +100,7 @@
         <p>Il 26 gennaio è stato rilasciato <strong>DeepSeek-R1</strong>, successore di V3, di proprietà dell’omonima azienda cinese. Questo a pochi giorni dopo l’annuncio <strong>del piano Stargate</strong>, un investimento da 500 miliardi di dollari per accelerare lo sviluppo dell’AGI. Il piano, sostenuto da <strong>colossi tecnologici come Meta, Amazon, Google e OpenAI</strong>, include la costruzione di nuovi data center nei prossimi quattro anni e segue la revoca di <strong>Trump</strong> di alcune restrizioni imposte dall’amministrazione Biden sull’uso dell’IA nella governance pubblica. Gli attori coinvolti sono OpenAi di Sam Altman , Oracle - azienda colosso del cloud, Soft Bank e  un fondo di investimenti emiratino.</p>
 <h3 id="la-balena-blu">La balena blu</h3>
 <p>L’uscita di DeepSeek-R1 ha scosso il settore, causando tra le altre il <strong>crollo delle azioni Nvidia</strong>, la cui tecnologia è fondamentale per l’addestramento dei modelli di OpenAI.</p>
-<figure><img src="/posts/img/nvidia.png" width="auto">
+<figure><img src="/blog/posts/img/nvidia.png" width="auto">
 </figure>
 
 <p>Il modello sembra una copia carbone di chat-gpt, sia nell&rsquo;interfaccia web che nelle funzionalità. Due però sono gli aspetti che destano maggiore allarme.</p>
@@ -108,18 +108,18 @@
 <li>DeepSeek-R1 si è rivelato più performante di GPT-4o nei benchmark, <strong>eccellendo nella comprensione del linguaggio</strong> naturale e nelle operazioni logico-matematiche.</li>
 <li>R1 è oltre <strong>20 volte più economico</strong> rispetto ai competitor ed è disponibile in una versione <strong>Open Source</strong>, cioè scaricabile e utilizzabile con infrastrutture relativamente economiche.</li>
 </ol>
-<figure><img src="/posts/img/benchmark.png" width="auto">
+<figure><img src="/blog/posts/img/benchmark.png" width="auto">
 </figure>
 
 <h3 id="un-pessimo-bugiardo">Un pessimo bugiardo</h3>
 <p>Tuttavia, il modello presenta limitazioni e criticità. DeepSeek-R1 <strong>applica filtri severi</strong> su argomenti sensibili per il governo cinese, <strong>censurando</strong> qualsiasi informazione su repressioni o violazioni dei diritti umani. Questo sistema si basa su una guardrail che rileva e blocca alcuni argomenti discussi da umano e IA. Non è difficile però aggirare i controlli giocando un po&rsquo; con il chatbot. In questo caso abbiamo provato a chiedere di sostituire alcune lettere con dei numeri</p>
-<figure><img src="/posts/img/chat.png" width="auto">
+<figure><img src="/blog/posts/img/chat.png" width="auto">
 </figure>
 
 <p>Inoltre è dubbia la vera natura del modello. Come già accennato questo è disponibile OpenSource, ed è quindi scaricabile e visionabile nella sua architettura. Manca però l&rsquo;algoritmo di addestramento. Dettaglio fondamentale senza il quale è impossibile ricreare il modello da zero dal proprio computer. Sulla base di questa mancanza OpenAI accusa l&rsquo;azienda cinese di aver costruito R1 distillandolo da gpt. Il processo di distillazione prevederebbe , a grandi linee, di usare gli output del modello forte per migliorare e addestrare il modello debole. La pratica di per sé non ha nulla di sbagliato ma in questo caso i termini di utilizzo di OpenAi la impediscono chiaramente. R1 in tutto questo appare confuso, spesso dichiara di essere ChatGpt, cancella le sue risposte a metà, chiede di parlare di altro, insomma un pessimo bugiardo.</p>
 <h3 id="il-segreto-di-pulcinella">Il segreto di pulcinella</h3>
 <p>Debole anche l&rsquo;infrastruttura. Il 29 gennaio, la società di sicurezza Wiz ha scoperto una <strong>vulnerabilità nei database</strong> di DeepSeek che esponevano pubblicamente log, chat e dati degli utenti. Il problema è stato risolto rapidamente, ma ha sollevato <strong>dubbi sulla sicurezza</strong> dell’infrastruttura e sulla gestione dei <strong>dati sensibili</strong> da parte dell’azienda cinese.</p>
-<figure><img src="/posts/img/wiz2.png" width="auto">
+<figure><img src="/blog/posts/img/wiz2.png" width="auto">
 </figure>
 
 <h3 id="defensor-privacy">Defensor privacy</h3>
